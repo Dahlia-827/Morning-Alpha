@@ -1,69 +1,405 @@
 {
-  "updated_at": "2026-11-16 18:00",
+  "updated_at": "2026-11-16 11:18",
   "items": [
     {
-      "category": "AI",
-      "source": "IBM Newsroom",
-      "title": "IBM 与微软宣布面向行业的 AI Agent 平台",
-      "summary": "双方宣布 Imagine Enterprise，面向企业构建、运行和治理行业专用 AI Agent。对金融从业者而言，值得关注的是 AI 是否从模型能力进一步转化为企业流程、生产率和软件收入。",
-      "link": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
-      "time": "11-10"
-    },
-    {
-      "category": "AI",
-      "source": "Anthropic",
-      "title": "Anthropic 启动拟议 IPO 的路演",
-      "summary": "Anthropic 公布拟议 IPO 的路演安排，拟发行 8.25 亿股，计划在纳斯达克上市。AI 公司的公开市场定价，将成为观察 AI 商业化与估值的重要窗口。",
-      "link": "https://www.anthropic.com/news/roadshow-launch",
-      "time": "11-10"
-    },
-    {
       "category": "美国",
-      "source": "AP News",
-      "title": "科技股抛售延续，市场等待英伟达财报",
-      "summary": "全球股市表现分化，亚洲股市多数走弱，市场继续评估 AI 交易的持续性；英伟达预计将在 11 月 17 日公布季度业绩。",
-      "link": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7",
+      "source": "Year-Old With $1.6 Million in Nvidia Sto",
+      "title": "Nvidia Just Fell 32% From Its Record. Here’s Warren Buffett’s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security - Yahoo Finance",
+      "summary": "Nvidia Just Fell 32% From Its Record. Here’s Warren Buffett’s Rule for a 67-Year-Old With $1.6 Million in Nvidia Stock and $2,900 a Month in Social Security&nbsp;&nbsp;Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTWNKZUtuakx6dHhUdFNDV0I3Q0dZRjlfUjFxUUs0WnhIdWJncVBBc3pkZ0hEOFFSRmd3WGk4UDltSkxPaWRvbkhWMWxWSFpjNDBvSUI5bzFvUXg2T1dzam1ZRV9EVWJXU3F2ekMyeS1GbGI0M1hPY0FUSTZkOUVDb05qOEVIbGdMTS1BSE1JQW5LdFFZanc?oc=5",
+      "access": "proxy",
+      "timestamp": 1794826020.0,
       "time": "11-16"
     },
     {
       "category": "美国",
-      "source": "Federal Reserve",
-      "title": "本周关注：美联储将公布 10 月议息会议纪要",
-      "summary": "美联储日历显示，10 月 27—28 日 FOMC 会议纪要将于 11 月 18 日公布。市场会关注委员对通胀、就业和后续利率路径的讨论。",
-      "link": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+      "source": "Yahoo Finance",
+      "title": "S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom - Yahoo Finance",
+      "summary": "S&P 500, Nasdaq futures slide as Nvidia earnings, Anthropic debut loom&nbsp;&nbsp;Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ2ppQWhNd3BCUHl0amwxSm9PRGJNekVOUFk5ZTcxZkFvcGJ3LVpnS3AwV1BkR3NEcmdaS2QtV1pSMFUxNmlTN05OeVhSRnVCVEkzWjctNDMyb291VGl2UHlQTTdSMU11MnNreVFnNVVMQUx2Z1d4NG5EYV9OVlJ6eVUtU0ZTaXZZODVKa1IzclpBMEU1QlE?oc=5",
+      "access": "proxy",
+      "timestamp": 1794825831.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Barron's",
+      "title": "The Market’s Resilience Faces Its Toughest Week Yet, and It Starts With Nvidia - Barron's",
+      "summary": "The Market’s Resilience Faces Its Toughest Week Yet, and It Starts With Nvidia&nbsp;&nbsp;Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUzk1eHVGb0pEa2JnSmNqbFdNMldGekNHVkRJUkF6YXJXcDlqaFZvcTRfcm1LbmJFXzNoNDFPNjk4dC1ZYmhLT0thTUlQajFlVS1vWjlDWlczX0x5VTVyWGJFWHNmeUxRRHdTV2tULWREWUZndU9JZmExamVPYUJnMXFR?oc=5",
+      "access": "proxy",
+      "timestamp": 1794823267.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "WSJ",
+      "title": "Stock Futures Slip Ahead of Pivotal Week for AI Trade With Nvidia, Anthropic in Focus - WSJ",
+      "summary": "Stock Futures Slip Ahead of Pivotal Week for AI Trade With Nvidia, Anthropic in Focus&nbsp;&nbsp;WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3NsU18tTmdONnFEdnZIZzUyb3JXVFVpQjhhQ04tcG15MFpUclFpeTVUczh3X3RmRWZ4eWQ2Tk5SbUwtVlBvaGNSQ3N6MXRYa0tSVk43alVlMFZNTGZRdnNDWHlQcUwxMjNtR3lnVU5zbkJpQkpta0R5anRiQ01rVTZhNDdqbEtsMWFnWms2ZzFHVUJLSWlZdXhlZFlIWXk0dUVOS3M2elFGOFhuRFU3bk9MOVgtMnJ6azltUGktWXdhd2lRaUZMYkp5UQ?oc=5",
+      "access": "proxy",
+      "timestamp": 1794822180.0,
       "time": "11-16"
     },
     {
       "category": "中国",
-      "source": "国家统计局",
-      "title": "10 月份国民经济运行总体平稳，工业和高技术制造业表现较强",
-      "summary": "国家统计局公布：10 月规模以上工业增加值同比增长 4.8%，高技术制造业增加值增长 17.6%，装备制造业增长 10.6%。",
-      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "source": "新华网",
+      "title": "全国小学道德与法治课堂教学展示与观摩活动在京举办 - 新华网",
+      "summary": "全国小学道德与法治课堂教学展示与观摩活动在京举办&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVm5VTGhtNUJ4ZHhuY2tlTlFOb0tUUS0wbDdUYWMwS3JSa1JJZEhyUzJRajZtSFhuS0ZoWVUtcXdCVVZXakVnb1hnMk1RX3dOM29ZR0hwam9BYzRoVWVTOFFROFB1Z1h6LS1GQ3pYbnhTbGxEazg1SjF1RU5oVVBDc3RTUQ?oc=5",
+      "access": "mainland",
+      "timestamp": 1794822057.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "MarketWatch",
+      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq are set to fall as investors await Nvidia results and Anthropic's IPO this week: live updates - MarketWatch",
+      "summary": "Stock Market Today: Dow, S&P 500 and Nasdaq are set to fall as investors await Nvidia results and Anthropic's IPO this week: live updates&nbsp;&nbsp;MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVNkSzYwV3paZTJTMVJaQVhlZXdRaFJWWjFPNmJiSG9OOTNTajBHVVZyYlgxYndVektsSXZWbGp5YzZRcUd2eHhPT3Fwb28wWElpNDdUcXhMXzZtM3pxWld3ZDJiY3BBTENSMng2YlhweWk3YUNRZ3p0OUlGRWgxZm5aaUlLUVFyOWwtN000clhKYThUdDMxQmM0VEhac3NxdlZGZzZnbEVpY1E2UWF2T2Z0YUlrcTl5?oc=5",
+      "access": "proxy",
+      "timestamp": 1794821400.0,
       "time": "11-16"
     },
     {
       "category": "中国",
-      "source": "国家统计局",
-      "title": "中国 1—10 月固定资产投资与房地产投资仍承压，出口增长较快",
-      "summary": "官方数据中，1—10 月固定资产投资同比下降 8.1%，房地产开发投资下降 21.6%；10 月出口额同比增长 28.7%，进口额增长 34.7%。",
-      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "source": "新华网",
+      "title": "东京股市显著下跌 - 新华网",
+      "summary": "东京股市显著下跌&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNR3NQYnd6RWhUbGFsNkUtcjQ5X3J5MWhSTkxNSnRSNjd2bWZnUWxRUkY3ZVV6dTM2ZkxybUptUzRtaWFoZE1ZeUVpLUpndVZ6dGNYcF8tWHVqc0ZqR0RfQWp3NlN2TjZlYUVMZ1FCeFpFWldHY1lOVGxtdEdhVGVNdnlzRFdHODFI?oc=5",
+      "access": "mainland",
+      "timestamp": 1794819963.0,
       "time": "11-16"
     },
     {
-      "category": "全球",
-      "source": "AP News",
-      "title": "全球股市走势分化，日本经济收缩加大市场谨慎情绪",
-      "summary": "亚太市场多数走弱，日本日经指数下跌，官方数据同时显示日本最新季度经济收缩；投资者还在等待美国利率线索。",
-      "link": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7",
+      "category": "美国",
+      "source": "what’s moving markets - Investing.com",
+      "title": "Nvidia results ahead this week; Fed’s Warsh to speak - what’s moving markets - Investing.com",
+      "summary": "Nvidia results ahead this week; Fed’s Warsh to speak - what’s moving markets&nbsp;&nbsp;Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPalFSTkYyVXltVHhoYnFtdkVMTm54WUV5cmxRQUxaNnNqLWVueDdJajJnNjNiX0FnRlpBTXVUOG9CQjhuYkFnV2c4NUVveDVyMUJhN3dyM1VPRzdWYVdHVEp0d1FTYVVoQkRwclo1N2FBTU15OURJbjdsbldQRWtKN01Mc0pvVkt0Mlc0MEZBQkZ2cWpqNW8wNlE0Znl4OVVGVnR3T29rbU9PRlBtbFUzV3FkMlJXby11bFNMNXU4Ynp4dw?oc=5",
+      "access": "proxy",
+      "timestamp": 1794819955.0,
       "time": "11-16"
     },
     {
-      "category": "全球",
-      "source": "国家统计局",
-      "title": "今天的阅读重点：把政策、数据与资产价格连起来看",
-      "summary": "今日中国数据同时呈现制造业和出口较强、内需与房地产仍偏弱的结构；适合用“增长结构—行业景气—公司盈利—估值”框架继续跟踪。",
-      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "category": "中国",
+      "source": "新华网",
+      "title": "党的创新理论海外研究专家走进广西：感受“中国之治”的为民情怀 - 新华网",
+      "summary": "党的创新理论海外研究专家走进广西：感受“中国之治”的为民情怀&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHZiQnlxWFpWd0hKYXFIeWNmMTFqRUIwaW1ndDVaQ1R6X0xMSkwzdmdUSWZ2YUp6SW5FT3U2czdsQlE4RXFvdG1wYU4zOUhVdVc5RVk3MUJSS0QwVFJOdm95eXdNRll6YWRtdzlBOHllQkJiSmhFdl9kS1VkMmM1dmRhaVBPY2J1VVd3?oc=5",
+      "access": "mainland",
+      "timestamp": 1794819238.0,
       "time": "11-16"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "台股16日创史上第二大单日收盘跌点 - 新华网",
+      "summary": "台股16日创史上第二大单日收盘跌点&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBZbnc2eVBpYWhHUW1PVFBkOE5iQWlzbTFpaTFMdWJ0RTJhLUVDWEwtVHdybHAxbmtxN0tRWnpiTHR4TjZrX0h6V21fdmcybnl3ZzctQmt4U3ZJX1plSGFQMTVpNkhmQzVpUGhmeTZfODhlbjN4ZG5rY0JlVGMtdw?oc=5",
+      "access": "mainland",
+      "timestamp": 1794816453.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "off resumes as Jensen Huang ‘discusses c",
+      "title": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live - The Guardian",
+      "summary": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live&nbsp;&nbsp;The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3hJYW1xTGM1ajVfTGJuSGxFeXk5eFFOUHVFQ3I3WW8wMVIzT0k0aTVnS05YazdhNmMxaXNvNEtsUms1R0VMblVrNWVtdjlyWUx4TXpNMEkzbUI0dWtfR3E2SkdnMnY3UWxObHZoVnZ1T1BwSG82TW9jN1dCUTVaWklhSGlNRGxtWFJienVONkluRXRCYW9rekhRWU5mNDRWdjRXQ3FjWnBaZkpHM0pHS3JwODhSNEJYODJiSjNLZ1Qzd09GSXk5cUJCNWFsc1U1T1lwakpvRDZBWW5pTEFpNEJORF9iRkNtLUhmNDh3?oc=5",
+      "access": "proxy",
+      "timestamp": 1794814380.0,
+      "time": "11-16"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "第22届“十月文学奖”颁奖，陈彦、阿来、毕飞宇、李敬泽等14人获奖 - 新华网",
+      "summary": "第22届“十月文学奖”颁奖，陈彦、阿来、毕飞宇、李敬泽等14人获奖&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZklmVTlOelEtOUhhOUlsOTJoZjdHcVVlZ2d0SDJaSW11WHppRjJnbzAzQzlVNzNoN0FKZ3JCRFhXQ0R3ckpMazR6dlQteTZBY0NEc0dPNVlpUlZuSVhkM2VBbUVDMUxVZ3QzODdTV1NDankzYlJxMGlXd2FTQklFcVJyaXY?oc=5",
+      "access": "mainland",
+      "timestamp": 1794797620.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "TradingView",
+      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus - TradingView",
+      "summary": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus&nbsp;&nbsp;TradingView",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN3VtaG9fdGNRWGRxQmtMU0hOSkY5d0ZkR0ZiOENDcjBTak4yV1d6azBWV21Rdk5CcUVUYUt6c0JMdTNPdjVjc0hwUG8yWGEwVUhzekN6UmNqazh1UFZXWDR1WWd6dTNsclktbi1jLUVzNVlRQjZXNDNGSENyUlE5UGhzc3VpV2EyS2FRclVMRkhNeTVWNVNJTlY5cFl3MWhDVHlQOF9QT0RRUExJYXl2bGxGNHM0UkRaaW9BRjcyNC1SOW9DQ3UzRHEtelFscUljY3FDemdZRng4WXBMTFN4OXkzTjZndlRjSjNaVFhwaktxeWVwVDJTQlhGUkhZZHNQMmN6Q2doaThXWmYxanZUQ0FfTE9aOElrT1E?oc=5",
+      "access": "proxy",
+      "timestamp": 1794794640.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Reuters",
+      "title": "Stocks dip as caution sets in before Nvidia earnings, Anthropic IPO - Reuters",
+      "summary": "Stocks dip as caution sets in before Nvidia earnings, Anthropic IPO&nbsp;&nbsp;Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
+      "access": "proxy",
+      "timestamp": 1794792900.0,
+      "time": "11-16"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "人工智能创新生态“聚光成炬” - 新华网",
+      "summary": "人工智能创新生态“聚光成炬”&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFZBWkRHbk90M1dGcTA2MF8ydGI5LTY2dVBLMEtldHp0bGplSkJrQm54cVBfd29Qd092NlllOUJmSWsyWVE1TlpzMHRBaUpwTU5LNzJMNjJoNkhjSWNUYUxSbjNrTjBpQmt0bjV6TTE1SHZiRkVHbTVHQUQtWnljRU0wOEs?oc=5",
+      "access": "mainland",
+      "timestamp": 1794791098.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Stocks Down Under",
+      "title": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally? - Stocks Down Under",
+      "summary": "US Stock Market Week Ahead: Can Nvidia Earnings and Fed Minutes Spark a Nasdaq Rally?&nbsp;&nbsp;Stocks Down Under",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rZDNOM285d3hOT0VJV0N4R2cxTWhFcFlzb2VLbVY0U2xiU21xX01hUnN1VDRrZ1lIOUkwRlFkcHdndnpUQ0hXZWZydlVMMmo5N2w5eWZZWjNmeVJ6dHJFZHROSk5jNFBKTFpzeWZqS2UyQkdRR1kwNmRHcFI1Nk0?oc=5",
+      "access": "proxy",
+      "timestamp": 1794770146.0,
+      "time": "11-15"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "中国科幻的下一章：AI、新故事与全球读者 - 新华网",
+      "summary": "中国科幻的下一章：AI、新故事与全球读者&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iNHR5ZlFGanV4VDZVTC03aThtcURBcXZKU0dQejYxYTFxZzNIM2hCQXRDamZ0UkxaUkgzREdCR3ZGZjZMakFNRVlQWUtZVm1WcHRZTGRfaWZfZE53OUJtaTRUTjUtZk1TS0NDV1dhV3hvbGQwMDN3bVJFQ1luZzQ?oc=5",
+      "access": "mainland",
+      "timestamp": 1794733740.0,
+      "time": "11-15"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "新华视点丨传统技艺在守正创新中绽放时代光彩 - 新华网",
+      "summary": "新华视点丨传统技艺在守正创新中绽放时代光彩&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5IZVFFQkpZZlBwWE9hWFAtV0ZhemZCcVoxLXlNZEI3UmV0ZXU3aDBrSS1yemhiSlVPODQ3TVpxSURJNTFUODNYSkN3MnZkb0ExOS1jazFhcXQ0OFhlODRGZmhlX0N0QllvbFVYbEpEM0Y1d09LZ2x6TTJHVV9odw?oc=5",
+      "access": "mainland",
+      "timestamp": 1794731336.0,
+      "time": "11-15"
+    },
+    {
+      "category": "美国",
+      "source": "Bloomberg.com",
+      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly - Bloomberg.com",
+      "summary": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly&nbsp;&nbsp;Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
+      "access": "proxy",
+      "timestamp": 1794686400.0,
+      "time": "11-14"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "从制服到云平台，达喀尔青奥会上的中国印记 - 新华网",
+      "summary": "从制服到云平台，达喀尔青奥会上的中国印记&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oQ0Q1LTFzVEUyY0FGajk1TDdKMXU2TEs1bFEybHlwczV6YXNUSno3OS1rbmdjQm85c1Y4Ry02SWdyY0FDUmU5SjhWZkRsdTFJU2tsZEZzVlpOUTZIelJCVmZpaEswZHFieXB3UjJBcVFwZWZITDJKbko3ODFQVlE?oc=5",
+      "access": "mainland",
+      "timestamp": 1794619202.0,
+      "time": "11-14"
+    },
+    {
+      "category": "美国",
+      "source": "WSJ",
+      "title": "U.S. Stocks Mixed on Nvidia Fallout Fears - WSJ",
+      "summary": "U.S. Stocks Mixed on Nvidia Fallout Fears&nbsp;&nbsp;WSJ",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQbXo0WGszbS1hZnpTdTRYYjJ0MnNDYVo3c1paejV2WkowZl93UVNiamRIQ0xEWU9HZWp3Ui14aEhFUEZkbWNQTXhfUVNSVE5tQkhELWJEcmZxYVpEM2c0aGRwdWpQZWM5MmdETXFXMDd5TTR5cHNvZUdaWmp4MlBLMG5KTm9JTFVrRmpfVA?oc=5",
+      "access": "proxy",
+      "timestamp": 1794610887.0,
+      "time": "11-13"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "市场最前沿·工厂探“新”丨老牌机床制造企业的“黑灯”实践 - 新华网",
+      "summary": "市场最前沿·工厂探“新”丨老牌机床制造企业的“黑灯”实践&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mREJOQU9xa2lLUFZHYWg3M3o1VkxaN0ZCUTIzdUZDSjY2MHppMXhzTEpuRjZWV1Y5UXZfdnI2WXZrLXFzcDhQVk0zTEU2MjlZcFhsM253d2VWU21HemVTMUxoa19Ocl9xaFJsbi0tejhXVC1WMUhvcFhzQmFacUE?oc=5",
+      "access": "mainland",
+      "timestamp": 1794572525.0,
+      "time": "11-13"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "中国经济圆桌会丨东郊村让更多新农人愿意回、留得住、能致富 - 新华网",
+      "summary": "中国经济圆桌会丨东郊村让更多新农人愿意回、留得住、能致富&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KeHEtSmN2VEh4VzhzenlUQldCanJfZkJneDRDQWFPU3BLQVc3TC1vUTdTUHlLTW1fYVFYNW5WbWxNOEJVVm9HeEVaYWVKQzZnUktIamNPT3YwZmFNT3N6ZUpXZlZwOWxJajZoMDVHbHdOYXNRaDZNcHg3YXBMZmM?oc=5",
+      "access": "mainland",
+      "timestamp": 1794473884.0,
+      "time": "11-12"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
+      "title": "中国经济圆桌会丨秋粮丰收已成定局 秋收呈现三大鲜明特点 - 新华网",
+      "summary": "中国经济圆桌会丨秋粮丰收已成定局 秋收呈现三大鲜明特点&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93Z1lhNHY3M1dqRlpIVGdkUU9pMXNIMGZGamwxczFzODlwd2tUUW1CTTZRTzY5aUplT3ZqemdQTEY4R0l1OVdKcjdEckFOdDBzUzJnVlp0MEFtajdDSi1JSC0wUENnOVFaLVJsS2o5cEFpRjFIdmE4TzBLWnk1dFk?oc=5",
+      "access": "mainland",
+      "timestamp": 1794473867.0,
+      "time": "11-12"
+    },
+    {
+      "category": "全球",
+      "source": "Deloitte",
+      "title": "2027 Banking and Capital Markets Outlook - Deloitte",
+      "summary": "2027 Banking and Capital Markets Outlook&nbsp;&nbsp;Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMXJ6LXdSdVFkOGFjTWtGRHFRZFdMZUh0Qnd5ZWhkaGRtc2RSbnRoYXJPdmRDNFc4WkhmVGtmeFJDbmQ4andYNDRoTS1UNWV2YUg5a2pCY0N2V2c5Vkd3aEtSR1BGcTAtS0lncGZnNFd0STFJa18tZWVVZ0JRZmhIOXNocGVSa240bVlsdWhPTEJXMkxJZW9iSkc4SmJVOVlnTGFhRU16dENLaFRzc21IaWNnX0VrNER1TTA5Rko2Q2Foek5MMExBdDRwanpOQlE?oc=5",
+      "access": "proxy",
+      "timestamp": 1794470400.0,
+      "time": "11-12"
+    },
+    {
+      "category": "全球",
+      "source": "Deloitte",
+      "title": "What’s happening this week in economics? - Deloitte",
+      "summary": "What’s happening this week in economics?&nbsp;&nbsp;Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNcV9VYnV0R0RPcWN0d2g1SHJIVlNmaVA1TV9nXzRKdVlFcWtSMjQ1T1B0djE4dDNRanZvSVFGX0ZBNUd6cnZkVnAtenFuMnFzdU9zYzg5cFdkTVRxU1F5YVVXVFhVWGdhd2RsTDBkNS1Xcm9ub1FnMFp5NnB3WVBYa3JJa1FVbG5IT0ZRRHphTUhtNThkenVJS1ZrdWNDdw?oc=5",
+      "access": "proxy",
+      "timestamp": 1794297600.0,
+      "time": "11-10"
+    },
+    {
+      "category": "全球",
+      "source": "U.S. Bank",
+      "title": "Analysis: China’s Economy and Its Influence on Global Markets - U.S. Bank",
+      "summary": "Analysis: China’s Economy and Its Influence on Global Markets&nbsp;&nbsp;U.S. Bank",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV21GNVBpb2YtMmpMcTZoSVFfUUcxdU9WVkg4MDVUdVptZzRuTTllZ2hCVW9wRW5Ua19jUkJMN1pyUDNTcExHUEljY1JGakRhYWtjOE1yU29tUXk0T0xucTZIRVFUdnVaS0JsRTdncGEzczQ3RHl5ZW5RWmN0RTVaMVVXTEYyc2lqYl9kMkUtVGh4Q1JLcmZvMUxRVV9Xd2c?oc=5",
+      "access": "proxy",
+      "timestamp": 1791356400.0,
+      "time": "10-07"
+    },
+    {
+      "category": "AI",
+      "source": "Exploding Topics",
+      "title": "45+ NEW Artificial Intelligence Statistics (Jan 2026) - Exploding Topics",
+      "summary": "45+ NEW Artificial Intelligence Statistics (Jan 2026)&nbsp;&nbsp;Exploding Topics",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRR1RxSDRTNlhSREl4Ty12bGN5UmZEVEZtZHB5OXprS1p2S0VtSFlyVmx2ZGY4OS11ZDhjODVGMTcwdkpGeW1yd0loelpGNUtoWEVyXzBTZWZidw?oc=5",
+      "access": "proxy",
+      "timestamp": 1789023600.0,
+      "time": "09-10"
+    },
+    {
+      "category": "全球",
+      "source": "Morningstar",
+      "title": "National Bank of Canada Earnings: Capital Markets Business Segment Trailed Larger Peers Again - Morningstar",
+      "summary": "National Bank of Canada Earnings: Capital Markets Business Segment Trailed Larger Peers Again&nbsp;&nbsp;Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQeXFmT3FsRzE4TGNNRGhNSWtDS1RjWDNiMW9qc2pTYnhYOV8yWnVEdEJIRlM4cWR3QzBZNlJzaGFaNkhoSGQ2QXNCNFhFc0tGUTByVHJKa2JqVWFvc1ZzcmJBWERnSFJoc2IxZzVfMkJSUmh2VWJ5ejRfekMteWl4R0QwLTc5NWozOUxQWGIxVjNzbnBNTVNvQVVCV3NkYlhjdXl4dWlPTzNFZS04ZkxCc1FaaE1fRTNoUmRvVE1OV0cwN19lSERZeHRkY0s4Zw?oc=5",
+      "access": "proxy",
+      "timestamp": 1787727600.0,
+      "time": "08-26"
+    },
+    {
+      "category": "全球",
+      "source": "Coursera",
+      "title": "16 Business Trends for 2026: How to Stay Ahead - Coursera",
+      "summary": "16 Business Trends for 2026: How to Stay Ahead&nbsp;&nbsp;Coursera",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBYTFk3dUtOWTB1Z2ZUeWF1dTBNNjlOMElaNFRGV0VxaVdmVF9lMExsQmY5ZV8yNG4wRjlKUzgyVE9mdkYzSEYxQS01U1YzckNHei02MEVzNExVYjVGbUE?oc=5",
+      "access": "proxy",
+      "timestamp": 1785308400.0,
+      "time": "07-29"
+    },
+    {
+      "category": "AI",
+      "source": "TUC: Trades Union Congress",
+      "title": "AI, business and the future of the workforce - TUC: Trades Union Congress",
+      "summary": "AI, business and the future of the workforce&nbsp;&nbsp;TUC: Trades Union Congress",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR253dks3VkE5UVdlQm5oX2xXbERyUjlUNXhWWlFQbWxBX2czOFV0bmZJeHJySnBaS2VLN2FXRUFCM2ZhYlpKM3d5a3BxYkVyamMzYkpxM2JYa3VFRXRBT0FvTXd2X1Z3dmRIRGdZTU52YVBNSTdwcUJOcTlZUnA1ampqZGNOS0Jz?oc=5",
+      "access": "proxy",
+      "timestamp": 1784703600.0,
+      "time": "07-22"
+    },
+    {
+      "category": "AI",
+      "source": "Office for National Statistics",
+      "title": "Artificial intelligence in UK businesses: 2023 to 2026 - Office for National Statistics",
+      "summary": "Artificial intelligence in UK businesses: 2023 to 2026&nbsp;&nbsp;Office for National Statistics",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQclFvbXQ4Ti1Kd09LQXBwRVNrOW03dWNIVEd0WGFkN3BGd1dfWUMydWZlZGs1bHJta3JUYjVXRXlQZWJvYm9oQW9KeFlUZm9tbUxKLUVKVW1SMUh0WTZUYWtnY0JVRExRMEloM2dCczVwczRrQmtIZFZvS3hjcUtMeVEyeWMzWVlLZ3BKS0tNS2pkSzItbjVNN2J4NVVyY1ZBLXE0cjZQRmNWVmp2SXpFZTMyZGtscDBQZnMxeVVSLXJqYnFwSHprU3p3?oc=5",
+      "access": "proxy",
+      "timestamp": 1784530800.0,
+      "time": "07-20"
+    },
+    {
+      "category": "AI",
+      "source": "IBM",
+      "title": "What is Artificial Intelligence (AI) in Business? - IBM",
+      "summary": "What is Artificial Intelligence (AI) in Business?&nbsp;&nbsp;IBM",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VNG1NRDgxaXVLSjZyZlowN210di03LXN6NnUwYWd2RDJmWFdIOHk1WlJiRjVIdUo1NllIMFo3OXJnTGZ2aTMzbUJCOG5lR2stZ2JlZ0xGZlpWWXlRRE5Ndy1Eb2JERFhFbTJWX2lObGxna2s?oc=5",
+      "access": "proxy",
+      "timestamp": 1780642800.0,
+      "time": "06-05"
+    },
+    {
+      "category": "AI",
+      "source": "MIT Sloan Management Review",
+      "title": "Winning With AI - MIT Sloan Management Review",
+      "summary": "Winning With AI&nbsp;&nbsp;MIT Sloan Management Review",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBidFFZQVZjVU9DcHFkXzJYMzlkQW41ME9JSkhMSmtpODJGbUI4cF81WGdONTg4cW91amozaEhwMWtCZmJtdmMtWVZFQWZGRkJuUmktNzdLd0FOS0hZRVNnSWtyZWFnOFdubFVDQnhpTQ?oc=5",
+      "access": "proxy",
+      "timestamp": 1779119027.0,
+      "time": "05-18"
+    },
+    {
+      "category": "AI",
+      "source": "Business News Daily",
+      "title": "Top 11 Small Business Technology Trends - Business News Daily",
+      "summary": "Top 11 Small Business Technology Trends&nbsp;&nbsp;Business News Daily",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XMWU3dUctcVJCemk3TTFiU19DaUh0dXFsY01TQ2wzeVRVMnNybUpMaTVoUGFBWEh0OTFndG9kSEdJYk5UcERuOFZsUVlnTVN2Vk1IX3FfLVRUbVcxS0hZeGcta254OFlwMlNZX1FEMndQb1ZyRkVuOHB5cw?oc=5",
+      "access": "proxy",
+      "timestamp": 1776927600.0,
+      "time": "04-23"
+    },
+    {
+      "category": "AI",
+      "source": "Deloitte",
+      "title": "Family business technology transformation 2026 - Deloitte",
+      "summary": "Family business technology transformation 2026&nbsp;&nbsp;Deloitte",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX0RrZ1hhWGt0Sy1fUU50aXpJWFZlenlYV1VEaDNfUmZBbnIyUDN1d1hCQjV4ZDQ0eUtoLU1Yc3h4cGxQQ3VRRDFMOG1QcmVPRFdLY19CZERCdzJnZnp1QlZYaFctMzlyWlZ3Ulc2LXNmQk9iRWFSeVpVSTBZSG9NbGVzbnV3eXQxa09WMkNId3J1NXF5eFB2RjJxUVhhQmpBX0NyNkt1QXoyZkFJNDBBMHRJMFMzNUc4NWh3TA?oc=5",
+      "access": "proxy",
+      "timestamp": 1774984883.0,
+      "time": "03-31"
+    },
+    {
+      "category": "全球",
+      "source": "IBM",
+      "title": "2026 Global Outlook for Banking and Financial Markets - IBM",
+      "summary": "2026 Global Outlook for Banking and Financial Markets&nbsp;&nbsp;IBM",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYjkxLXZNS0pMSXQzMGVNVnlwUkRfUjY1WmxzZWZGaEI2QW1EY1BUOFpWTFpsWkxMU0dyYXZqS2ZCSGFRLWJRNFV3alkza1JGZnJ4YTNyQ2JRMXRQa0FZcFpsVElOQXJiYXlXUl9PQzdhUld1WmZ6ZnVZbFZaVkZPRzlNcUpuRUpmWWxyQjVzbnhyX0d1a0NwdjJEV1p3bkdFdWppRThzY19jcVBZYTdFV1JwOUR5Zw?oc=5",
+      "access": "proxy",
+      "timestamp": 1773644400.0,
+      "time": "03-16"
+    },
+    {
+      "category": "全球",
+      "source": "PwC",
+      "title": "PwC’s 29th Global CEO Survey: Leading through uncertainty in the age of AI - PwC",
+      "summary": "PwC’s 29th Global CEO Survey: Leading through uncertainty in the age of AI&nbsp;&nbsp;PwC",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wRTJuSkkzX1FNUnpnOXN0OXVUVURMVDFrQlZnRHlsdjVGa1VvT0c3Vk51dlZ6MndCQ1BZZXczaFh5MVp3czRyT3lkNUp1ZkJ4T3l1YVVIQ0thQ2VPbHZWVFhzTDUxV0ZaQVlRYnpGQTV4VEZHR2c?oc=5",
+      "access": "proxy",
+      "timestamp": 1768809600.0,
+      "time": "01-19"
+    },
+    {
+      "category": "全球",
+      "source": "World Economic Forum",
+      "title": "How the power of AI can revolutionize the financial markets - World Economic Forum",
+      "summary": "How the power of AI can revolutionize the financial markets&nbsp;&nbsp;World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWQtNWZoSnlMM3dGUzIyMFpuR3ZxaFFsdG90RlZubS1NOW1YcmN1NnRmRzc2cW4tQy0tWGQyRExEd0NZanVRaWRQcm12b2lyTkdfbkFFYy02aDlKRTMyTWpjN01ndU96LUNzdHRfOHdTM0JCUFNNOEM4ckNnQUlncjFOMWJLYWxmVWdSaUxQaDBDbHVaSldKTVEya0JjaENYdGNqSmJRU2dzRUVMVWFaMGZmaXRkUQ?oc=5",
+      "access": "proxy",
+      "timestamp": 1768204800.0,
+      "time": "01-12"
+    },
+    {
+      "category": "全球",
+      "source": "J.P. Morgan",
+      "title": "2026 Business Leaders Outlook: Expectations & Trends - J.P. Morgan",
+      "summary": "2026 Business Leaders Outlook: Expectations & Trends&nbsp;&nbsp;J.P. Morgan",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcHZvdTZfcHh1b0kwZ1hVUWdvSUlmaDVDMmQ1VGotMGp6MENLSktPcmIxOEt2MUlHT2ZqQ2V0YUg0YV9DODNZMVBNYUJwZFVTcDBNZVlRLVRRZmV0NXRrLTZmRm1yZldsdUI0N0Rnd2tSV0NiTFE1MEJZVVpMVEpEVV9wSFJxaWtqd0dfdjhrWkdxYzd1MElXWnhzSDJyMVN2eDZZNFpwcU93R2lxdUtKeg?oc=5",
+      "access": "proxy",
+      "timestamp": 1767772800.0,
+      "time": "01-07"
     }
   ]
 }
