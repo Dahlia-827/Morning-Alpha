@@ -1,0 +1,69 @@
+{
+  "updated_at": "2026-11-16 18:00",
+  "items": [
+    {
+      "category": "AI",
+      "source": "IBM Newsroom",
+      "title": "IBM 与微软宣布面向行业的 AI Agent 平台",
+      "summary": "双方宣布 Imagine Enterprise，面向企业构建、运行和治理行业专用 AI Agent。对金融从业者而言，值得关注的是 AI 是否从模型能力进一步转化为企业流程、生产率和软件收入。",
+      "link": "https://newsroom.ibm.com/2026-11-10-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
+      "time": "11-10"
+    },
+    {
+      "category": "AI",
+      "source": "Anthropic",
+      "title": "Anthropic 启动拟议 IPO 的路演",
+      "summary": "Anthropic 公布拟议 IPO 的路演安排，拟发行 8.25 亿股，计划在纳斯达克上市。AI 公司的公开市场定价，将成为观察 AI 商业化与估值的重要窗口。",
+      "link": "https://www.anthropic.com/news/roadshow-launch",
+      "time": "11-10"
+    },
+    {
+      "category": "美国",
+      "source": "AP News",
+      "title": "科技股抛售延续，市场等待英伟达财报",
+      "summary": "全球股市表现分化，亚洲股市多数走弱，市场继续评估 AI 交易的持续性；英伟达预计将在 11 月 17 日公布季度业绩。",
+      "link": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7",
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Federal Reserve",
+      "title": "本周关注：美联储将公布 10 月议息会议纪要",
+      "summary": "美联储日历显示，10 月 27—28 日 FOMC 会议纪要将于 11 月 18 日公布。市场会关注委员对通胀、就业和后续利率路径的讨论。",
+      "link": "https://www.federalreserve.gov/newsevents/2026-November.htm",
+      "time": "11-16"
+    },
+    {
+      "category": "中国",
+      "source": "国家统计局",
+      "title": "10 月份国民经济运行总体平稳，工业和高技术制造业表现较强",
+      "summary": "国家统计局公布：10 月规模以上工业增加值同比增长 4.8%，高技术制造业增加值增长 17.6%，装备制造业增长 10.6%。",
+      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "time": "11-16"
+    },
+    {
+      "category": "中国",
+      "source": "国家统计局",
+      "title": "中国 1—10 月固定资产投资与房地产投资仍承压，出口增长较快",
+      "summary": "官方数据中，1—10 月固定资产投资同比下降 8.1%，房地产开发投资下降 21.6%；10 月出口额同比增长 28.7%，进口额增长 34.7%。",
+      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "time": "11-16"
+    },
+    {
+      "category": "全球",
+      "source": "AP News",
+      "title": "全球股市走势分化，日本经济收缩加大市场谨慎情绪",
+      "summary": "亚太市场多数走弱，日本日经指数下跌，官方数据同时显示日本最新季度经济收缩；投资者还在等待美国利率线索。",
+      "link": "https://apnews.com/article/35786b8f539ec95f16ae0500f71cfcc7",
+      "time": "11-16"
+    },
+    {
+      "category": "全球",
+      "source": "国家统计局",
+      "title": "今天的阅读重点：把政策、数据与资产价格连起来看",
+      "summary": "今日中国数据同时呈现制造业和出口较强、内需与房地产仍偏弱的结构；适合用“增长结构—行业景气—公司盈利—估值”框架继续跟踪。",
+      "link": "https://www.stats.gov.cn/sj/zxfbhjd/202611/t20261116_1965844.html",
+      "time": "11-16"
+    }
+  ]
+}
