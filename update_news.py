@@ -16,6 +16,7 @@ FEEDS = [
     ("AI", "AI artificial intelligence business technology", "proxy"),
     ("美国", "US stock market Federal Reserve Nvidia business", "proxy"),
     ("中国", "中国 经济 股市 AI 企业 site:gov.cn OR site:stats.gov.cn OR site:csrc.gov.cn OR site:xinhuanet.com", "mainland"),
+    ("商业", "企业家 CEO 公司 并购 IPO 战略 商业决策", "mainland"),
     ("全球", "global markets business economy", "proxy"),
 ]
 
