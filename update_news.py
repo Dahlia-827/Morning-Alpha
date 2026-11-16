@@ -31,8 +31,8 @@ SOURCES = [
     {"kind": "google", "category": "美国", "query": "Anthropic 上市 英伟达 黄仁勋 OpenAI 微软 AI 公司 最新消息 中文", "access": "mainland"},
     {"kind": "google", "category": "美国", "query": "美国股市 美联储 英伟达 财报 利率 IPO 公司决策 中文", "access": "mainland"},
     {"kind": "google", "category": "中国", "query": "中国 金融 资本市场 科技产业链 企业 政策 site:gov.cn OR site:stats.gov.cn OR site:csrc.gov.cn OR site:pbc.gov.cn OR site:xinhuanet.com", "access": "mainland"},
-    {"kind": "google", "category": "商业", "query": "企业家 CEO 公司 并购 IPO 战略 商业决策 科技 中文 site:36kr.com OR site:jiemian.com OR site:cls.cn OR site:caixin.com", "access": "mainland"},
-    {"kind": "google", "category": "全球", "query": "全球市场 经济 商业 央行 公司 最新消息 中文", "access": "mainland"},
+    {"kind": "google", "category": "商业", "query": "企业家 CEO 上市公司 并购 收购 融资 财报 处罚 财务造假 产品发布 中文", "access": "mainland"},
+    {"kind": "google", "category": "全球", "query": "全球公司 并购 财报 IPO AI 企业家 产品发布 最新消息 中文", "access": "mainland"},
 ]
 
 def stamp(value: str | None) -> float:
@@ -133,6 +133,24 @@ def importance(item: dict) -> int:
     return sum(3 for keyword in keywords if keyword.lower() in text.lower()) + (1 if item.get("official") else 0)
 
 
+def is_useful(item: dict) -> bool:
+    text = f"{item.get('title', '')} {item.get('summary', '')}"
+    macro_only = ("国民经济运行", "采购经理指数", "创新指数", "固定资产投资", "房地产市场", "能源生产", "社会消费品零售", "商品住宅", "工业生产者出厂价格", "居民消费价格", "CPI和PPI", "规模以上工业增加值", "价格变动", "国民经济和社会发展", "民生统计", "农业经济", "工业经济", "服务业平稳增长", "流通领域", "投资数据", "消费市场")
+    company_signals = ("公司", "企业", "上市", "并购", "收购", "融资", "财报", "公告", "产品", "模型", "开源", "CEO", "创始人", "董事长", "处罚", "造假")
+    title = item.get("title", "")
+    return not (item.get("category") == "中国" and any(word in title for word in macro_only) and not any(word in title for word in company_signals))
+
+
+BOOTSTRAP_ITEMS = [
+    {"category": "AI", "source": "DeepSeek 官方", "title": "DeepSeek 发布 V4.1 Flash，多模态模型上线并继续支持开源生态", "summary": "模型上线 API，并继续支持开源社区进行模型适配，关注模型能力如何转化为开发者和企业应用。", "link": "https://deepseek.com/news/deepseek-v4-1-flash/", "access": "mainland", "timestamp": datetime.fromisoformat("2026-09-14T04:00:00+00:00").timestamp(), "official": True},
+    {"category": "AI", "source": "人民日报·百度世界", "title": "百度发布文心大模型新版本，智能体和企业 AI 应用继续加速", "summary": "百度世界大会集中发布模型、智能体和云计算产品，重点观察 AI 能力如何进入企业场景。", "link": "https://paper.people.com.cn/rmrb/pc/attachement/202611/13/7a72920f-904c-4dd3-a044-30f014d8a60d.pdf", "access": "mainland", "timestamp": datetime.fromisoformat("2026-11-13T04:00:00+00:00").timestamp(), "official": True},
+    {"category": "美国", "source": "Anthropic 招股书", "title": "Anthropic 公开提交上市招股书，AI 公司进入资本市场关键阶段", "summary": "关注发行规模、估值、收入增长以及未来算力和数据中心投入。", "link": "https://ipo.anthropic.com/documents/us/prospectus.pdf", "access": "proxy", "timestamp": datetime.fromisoformat("2026-11-10T12:00:00+00:00").timestamp(), "official": True},
+    {"category": "美国", "source": "德国之声中文网", "title": "英伟达宣布黄仁勋辞任 CEO，市场关注接班与 AI 芯片战略延续", "summary": "管理层变化可能影响产品路线、客户关系和资本市场预期，先看公司公告与后续安排。", "link": "https://amp.dw.com/zh/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C-%E4%B8%AD%E4%BC%81%E5%BF%A7%E7%BE%8E%E6%94%B6%E7%B4%A7%E7%9B%91%E7%AE%A1-%E5%BF%99%E6%8A%A2%E7%A7%9F%E6%B5%B7%E5%A4%96%E8%8B%B1%E4%BC%9A%E8%BE%BE%E7%AE%97%E5%8A%9B/a-79929183", "access": "proxy", "timestamp": datetime.fromisoformat("2026-11-12T12:00:00+00:00").timestamp(), "official": False},
+    {"category": "商业", "source": "36氪", "title": "AI 科创企业完成新一轮融资，资金继续流向物理 AI 与企业服务", "summary": "企业融资是观察技术商业化的重要窗口，重点看融资规模、投资方和资金用途。", "link": "https://pitchhub.36kr.com/financing-flash", "access": "mainland", "timestamp": datetime.fromisoformat("2026-11-13T03:00:00+00:00").timestamp(), "official": False},
+    {"category": "全球", "source": "36氪融资快报", "title": "全球 AI 创业公司融资与产品发布仍在加速，资本继续寻找可落地场景", "summary": "从融资、产品和客户落地三个角度观察 AI 企业是否真正形成商业收入。", "link": "https://pitchhub.36kr.com/financing-flash", "access": "mainland", "timestamp": datetime.fromisoformat("2026-11-13T03:00:00+00:00").timestamp(), "official": False},
+]
+
+
 def main() -> None:
     items: list[dict] = []
     for source in SOURCES:
@@ -142,9 +160,15 @@ def main() -> None:
         except Exception as exc:
             print(f"unavailable: {source.get('name', source.get('category'))} ({type(exc).__name__})")
 
+    # 某个免费源临时失败时，给空栏目保留少量可点击内容；有实时内容的栏目不使用兜底。
+    live_categories = {item["category"] for item in items}
+    items.extend(item for item in BOOTSTRAP_ITEMS if item["category"] not in live_categories)
+
     seen: set[str] = set()
     unique: list[dict] = []
     for item in sorted(items, key=lambda row: (importance(row), row["timestamp"]), reverse=True):
+        if not is_useful(item):
+            continue
         key = re.sub(r"\W", "", item["title"].lower())[:120]
         if not key or key in seen:
             continue
