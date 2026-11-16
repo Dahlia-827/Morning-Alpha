@@ -1,24 +1,54 @@
 {
-  "updated_at": "2026-11-16 12:14",
+  "updated_at": "2026-11-16 16:48",
   "items": [
     {
       "category": "美国",
       "source": "MarketWatch",
-      "title": "Stock Market Today: Dow, S&P 500 and Nasdaq are set to fall as investors await Nvidia results and Anthropic's IPO this week: live updates - MarketWatch",
-      "summary": "Stock Market Today: Dow, S&P 500 and Nasdaq are set to fall as investors await Nvidia results and Anthropic's IPO this week: live updates&nbsp;&nbsp;MarketWatch",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaVNkSzYwV3paZTJTMVJaQVhlZXdRaFJWWjFPNmJiSG9OOTNTajBHVVZyYlgxYndVektsSXZWbGp5YzZRcUd2eHhPT3Fwb28wWElpNDdUcXhMXzZtM3pxWld3ZDJiY3BBTENSMng2YlhweWk3YUNRZ3p0OUlGRWgxZm5aaUlLUVFyOWwtN000clhKYThUdDMxQmM0VEhac3NxdlZGZzZnbEVpY1E2UWF2T2Z0YUlrcTl5?oc=5",
+      "title": "Nvidia’s stock extends declines following harsh words from the U.S. government - MarketWatch",
+      "summary": "Nvidia’s stock extends declines following harsh words from the U.S. government&nbsp;&nbsp;MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSkJsamppQU9MUGc1UDk1MG5XclJteGw5Z3hzSVdCbHg4cGNnOVRSVzNuY2N3ZW9zb0ZDUWMyQUF6Qmk5ck9CSE10RUdCSTdfMnhNbEJrVWxKaDZtVXBDRWRDTUlTekh1Y3pqdjZ5ZkVKSFI0QVBPQmdXVUU1Nl9GanlnSkoyaExNLUJzYVlIQVJiX3JZWE1HWkNMWmdsa2NwbXBpWjV4STJtNV9aQjhVeU5hRFVERDNYcmxZ?oc=5",
       "access": "proxy",
-      "timestamp": 1794830640.0,
+      "timestamp": 1794842520.0,
       "time": "11-16"
     },
     {
       "category": "美国",
-      "source": "Yahoo Finance",
-      "title": "Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week - Yahoo Finance",
-      "summary": "Nvidia Earnings, Anthropic IPO and Federal Reserve Outlook Among Five Key Market Events This Week&nbsp;&nbsp;Yahoo FinanceThe Market’s Resilience Faces Its Toughest Week Yet, and It Starts With Nvidia&nbsp;&nbsp;Barron'sNvidia results ahead this week; Fed’s Wa",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWw1cTVJckJKUEE4LTlkZzBHSkVIRnVWaXRsV3FfTmprX3Z1Qk45RE1hS0g0SFkyLXliV0VOUDRtekVjOUdRbGhkU2Zfamg0LXpzTFFnVEVxbldfOXUtVG9DQmY1WnRodWg2QTdvcXd5eVV6OTlzaEptMEY5eDFRODFZWTNBWV91UjJzR1FkeVNfc0Jvcm0yNHZTbXNyOU1iN2Vvdg?oc=5",
+      "source": "Barron's",
+      "title": "Why Is the Dollar Surging? Blame Inflation and Nvidia’s Leadership Crisis. - Barron's",
+      "summary": "Why Is the Dollar Surging? Blame Inflation and Nvidia’s Leadership Crisis.&nbsp;&nbsp;Barron's",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1MSFRDa1NGQnNJVlFneGlmcWk5MDQzRmdNWUY0VkdIQlBqaDFXUm52MThlb05ncl9NS1JtbmE2ZG8zRmlkZ3c3Y2N6ZHNrWUh5aUpjcUFOb1d5bTFmOVV0SGtFVU9VUHltbDRjRVkwT2cwQWlDVlhSZQ?oc=5",
       "access": "proxy",
-      "timestamp": 1794828459.0,
+      "timestamp": 1794838500.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Pioneer Press",
+      "title": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic - Pioneer Press",
+      "summary": "Tech stocks drag US futures lower ahead of Nvidia earnings and potential market debut from Anthropic&nbsp;&nbsp;Pioneer Press",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQdlZwWHBtY0tzZW5KMW5LMVdab0lhS1hRcXIyRktrN3VLVUZTcEZiNWZyYjZSLVdpbF9iTVFjNUQ4YnhxWDhjcGN5Z2RIUVh3bXJuTmlBcEN3ejhQQ3paT2VMc0xDXzRVejNqOXpiUzBEOGxaZmxSU3hRb0diR1J6Qg?oc=5",
+      "access": "proxy",
+      "timestamp": 1794836082.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Investopedia",
+      "title": "5 Things Investors Need to Know About Monday’s Markets - Investopedia",
+      "summary": "5 Things Investors Need to Know About Monday’s Markets&nbsp;&nbsp;Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYjZvQ0NWMW4zeUkzOEFpeGtYcHdsQ3UwSTdUX1NVYXNOVGlGSFdrUWtKNkc3S05VRXVuQzNyTVpQY0Vqdzk2RHBWUHJmYm9sbGVZaEJqQ0xDY2dFTTFNM3Fpak1qcHlvRDRkeDVpQktlSG1Zdzd4ZUE1WGl4NE5jekc5bUpYd2pqbXlNag?oc=5",
+      "access": "proxy",
+      "timestamp": 1794832978.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "Barchart.com",
+      "title": "U.S. Futures Slip as Chip Stocks Extend Slump; Nvidia Earnings and Anthropic IPO Awaited - Barchart.com",
+      "summary": "U.S. Futures Slip as Chip Stocks Extend Slump; Nvidia Earnings and Anthropic IPO Awaited&nbsp;&nbsp;Barchart.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQzFMN0FYNzRNdUhKdVZZT3Q4SGhLMTVnQmVkZnk5OURiZWk4MHVzbzFKZlphLUozNzQ2Y25NSDMzTmtzNFFBRkdTd2JDNWRfUEpPZkx2SnpWUFNjSTJRVDIzOUNVRWVQVUFZQ18wbkhUME5GVDNQYUpudGtLYjl0N2s1Z2prYUw4dGl4YjNraU00T0E4ajF4WVIyOFRUQWZ0X1dwVHJfQXpPcHpoZHl3NjhfT0J1YnpPYXpIeUwyNWQ2R1E0U0o0b29R?oc=5",
+      "access": "proxy",
+      "timestamp": 1794828764.0,
       "time": "11-16"
     },
     {
@@ -33,12 +63,12 @@
     },
     {
       "category": "美国",
-      "source": "Barron's",
-      "title": "Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027 - Barron's",
-      "summary": "Stocks’ Next Headache? The Fed Could Raise Rates Well Into 2027&nbsp;&nbsp;Barron's",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVRqdWxHZTVJYU9nTnNEUFFBZWVVaG11UTdUYmdzUHFSMjVWYTY0b2o0NG5OTE9mcTZ5M3dQc2swdXE0aGpsTnk0THVka0poUi1uMTdfMkF3TGtWTGgtYU9KZm5DdjBrOWp3RDd6bmpFejdwVWxyb3pEYWxjZzFKTk5MME10LTdf?oc=5",
+      "source": "Yahoo Finance",
+      "title": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street - Yahoo Finance",
+      "summary": "US Stock Futures Decline Ahead of Nvidia Earnings as Investors Await Federal Reserve Signals: Dow Jones, S&P, Nasdaq, Wall Street&nbsp;&nbsp;Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ3loNDRFRS1qcXRkNU4zd2dEbEt0VEpENld4UU9ES3pEOXNhMzkteGVfYXVaaHc1ZUZqRWtwckFiT1NfX3BJTHZzQmtGMUV0MmwzT1p0a1FsNFUxQTZMSmlWWVVqa25FNlNxMXFBM1BRc2E3S2hxYnc3WEdiWThDRzRfNEZfUkg0ZVAxMllvdzJmTlZiNUo3WlRjRQ?oc=5",
       "access": "proxy",
-      "timestamp": 1794826800.0,
+      "timestamp": 1794823002.0,
       "time": "11-16"
     },
     {
@@ -59,16 +89,6 @@
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVm5VTGhtNUJ4ZHhuY2tlTlFOb0tUUS0wbDdUYWMwS3JSa1JJZEhyUzJRajZtSFhuS0ZoWVUtcXdCVVZXakVnb1hnMk1RX3dOM29ZR0hwam9BYzRoVWVTOFFROFB1Z1h6LS1GQ3pYbnhTbGxEazg1SjF1RU5oVVBDc3RTUQ?oc=5",
       "access": "mainland",
       "timestamp": 1794822057.0,
-      "time": "11-16"
-    },
-    {
-      "category": "美国",
-      "source": "CoinDesk",
-      "title": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead - CoinDesk",
-      "summary": "FOMC minutes, Nvidia earnings, Russia’s retail crypto rules: Crypto Week Ahead&nbsp;&nbsp;CoinDesk",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPXzVGTTFDa2pOaWdPbzFOODhiY0FkNDVhVzNMUzYtSWNLbEduTEdHVWZ2cDlFcFJrOWxDdXVqMzhaYko4SFZTQWNFRW1fZ2Y5dlJCcldUVkw2RDNTR2owWGRwNUpaeGoyQ1lPYjJRM01uN1laSHJXX2p1U21MX2lNazVlSkozaHJRZ2xEM1dZVUk1Nng3OFgzU1lucml1N0xub1pQWE53d18wTU52bFA5VVVmX2JGQnFWOWRJ?oc=5",
-      "access": "proxy",
-      "timestamp": 1794820987.0,
       "time": "11-16"
     },
     {
@@ -103,12 +123,22 @@
     },
     {
       "category": "美国",
-      "source": "off resumes as Jensen Huang ‘discusses c",
-      "title": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live - The Guardian",
-      "summary": "AI sell-off resumes as Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live&nbsp;&nbsp;The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQT3hJYW1xTGM1ajVfTGJuSGxFeXk5eFFOUHVFQ3I3WW8wMVIzT0k0aTVnS05YazdhNmMxaXNvNEtsUms1R0VMblVrNWVtdjlyWUx4TXpNMEkzbUI0dWtfR3E2SkdnMnY3UWxObHZoVnZ1T1BwSG82TW9jN1dCUTVaWklhSGlNRGxtWFJienVONkluRXRCYW9rekhRWU5mNDRWdjRXQ3FjWnBaZkpHM0pHS3JwODhSNEJYODJiSjNLZ1Qzd09GSXk5cUJCNWFsc1U1T1lwakpvRDZBWW5pTEFpNEJORF9iRkNtLUhmNDh3?oc=5",
+      "source": "The Guardian",
+      "title": "US limits remote access to advanced AI chips; Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live - The Guardian",
+      "summary": "US limits remote access to advanced AI chips; Jensen Huang ‘discusses comeback as Nvidia CEO’ – business live&nbsp;&nbsp;The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOVnhRX05IMi1CXzVtaDBleUhsUmg4M0Zzb3lqRTNGaTlFcUxmU1VPMzRUU1hBdjFMWWJnaGJIRXhCSzF1UVlsWEwzM1pNbFA1c2hlQVZrQ1JUdXdHSlpDbHpYcnpIcS1uRjZBSkM4dWRtNXJNZG94eFp4YVRCZmp1X3ZIODF1QTdHYTBaS2NVS0J4azgzc1VrQm1fMC1NTGxhbGdReHVJbXZLZEItRWVWdG4wOEVjUUpxTHl6ak9lX0VSdHdKcVlRUU5tVkllcDQ0eE9zX3A0LXp2azRpVVdCZVU1dWNpOTIwWFkxZHQzS0JZWXlKSGlfZ2pYTGZvaDZXUUlYMHA0akZjQ3pVdlR0em1OVEZablBMTHBmb04zdnl4STQ3cC00?oc=5",
       "access": "proxy",
       "timestamp": 1794814380.0,
+      "time": "11-16"
+    },
+    {
+      "category": "美国",
+      "source": "The Dispatch",
+      "title": "Americans Have No Choice but to Care About Nvidia - The Dispatch",
+      "summary": "Americans Have No Choice but to Care About Nvidia&nbsp;&nbsp;The Dispatch",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4OUctb0lCcmFKQVdLdHVzdUcwTUNGMHdHaHhhaDFlZEk1dU80bFNFalg3cWlKLV9nSzRaVF9uOFpyYTlRcU5xNnlueHN1NXVuUTJzenhyTFE5X1c3TmVkUmVQUGNLdXJYX3V5bm5SR2dfaU5zSng1U1hwRQ?oc=5",
+      "access": "proxy",
+      "timestamp": 1794809108.0,
       "time": "11-16"
     },
     {
@@ -133,33 +163,13 @@
     },
     {
       "category": "美国",
-      "source": "TradingView",
-      "title": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus - TradingView",
-      "summary": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes: SMMT, NBIS, HELP, MSTR In Focus&nbsp;&nbsp;TradingView",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPN3VtaG9fdGNRWGRxQmtMU0hOSkY5d0ZkR0ZiOENDcjBTak4yV1d6azBWV21Rdk5CcUVUYUt6c0JMdTNPdjVjc0hwUG8yWGEwVUhzekN6UmNqazh1UFZXWDR1WWd6dTNsclktbi1jLUVzNVlRQjZXNDNGSENyUlE5UGhzc3VpV2EyS2FRclVMRkhNeTVWNVNJTlY5cFl3MWhDVHlQOF9QT0RRUExJYXl2bGxGNHM0UkRaaW9BRjcyNC1SOW9DQ3UzRHEtelFscUljY3FDemdZRng4WXBMTFN4OXkzTjZndlRjSjNaVFhwaktxeWVwVDJTQlhGUkhZZHNQMmN6Q2doaThXWmYxanZUQ0FfTE9aOElrT1E?oc=5",
+      "source": "Reuters",
+      "title": "Stocks dip ahead of Nvidia earnings, Anthropic IPO - Reuters",
+      "summary": "Stocks dip ahead of Nvidia earnings, Anthropic IPO&nbsp;&nbsp;ReutersWall Street falls as Nvidia jitters cloud sentiment ahead of results&nbsp;&nbsp;The Detroit NewsStocks slide as Nvidia leads AI names lower: Live updates&nbsp;&nbsp;CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPa3g3MVMxZ2lSN1ZpTmpaWkdYR25ZdDZ4M3BELXQ3ZC1PZDhtNTVjYmpQdHlJZUFtLWxiUkFLbXhUVHM0OHNScEUyTWFHUU5MMmZYb0EyVW51dXd1OWJFak1NbVFwazhlVzBIcHB3TENzRG1IZ2FvVFlpS0xubFBadXlPYw?oc=5",
       "access": "proxy",
-      "timestamp": 1794794640.0,
+      "timestamp": 1794792900.0,
       "time": "11-16"
-    },
-    {
-      "category": "中国",
-      "source": "新华网",
-      "title": "人工智能创新生态“聚光成炬” - 新华网",
-      "summary": "人工智能创新生态“聚光成炬”&nbsp;&nbsp;新华网",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaFZBWkRHbk90M1dGcTA2MF8ydGI5LTY2dVBLMEtldHp0bGplSkJrQm54cVBfd29Qd092NlllOUJmSWsyWVE1TlpzMHRBaUpwTU5LNzJMNjJoNkhjSWNUYUxSbjNrTjBpQmt0bjV6TTE1SHZiRkVHbTVHQUQtWnljRU0wOEs?oc=5",
-      "access": "mainland",
-      "timestamp": 1794791098.0,
-      "time": "11-16"
-    },
-    {
-      "category": "美国",
-      "source": "TipRanks",
-      "title": "Market Currents: The House That NVIDIA Built - TipRanks",
-      "summary": "Market Currents: The House That NVIDIA Built&nbsp;&nbsp;TipRanks",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE14azBHOG1MRlZvcTZTVUJrWV9WVG5mYm11R200a1hwd1gwOXBDMVlDdFdyVjRLdUZfM2FLZTl3cHJ5Sk9qZGV2WklSZ2VWcUpxVnZiS3VYTVNDMHF4a1ZhYlhYazVQZGpsLXZLZXRpajF3M1pzZnB3WkxiTEFCQQ?oc=5",
-      "access": "proxy",
-      "timestamp": 1794758579.0,
-      "time": "11-15"
     },
     {
       "category": "中国",
@@ -182,16 +192,6 @@
       "time": "11-15"
     },
     {
-      "category": "美国",
-      "source": "Bloomberg.com",
-      "title": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly - Bloomberg.com",
-      "summary": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly&nbsp;&nbsp;Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
-      "access": "proxy",
-      "timestamp": 1794686400.0,
-      "time": "11-14"
-    },
-    {
       "category": "中国",
       "source": "新华网",
       "title": "从制服到云平台，达喀尔青奥会上的中国印记 - 新华网",
@@ -204,21 +204,21 @@
     {
       "category": "中国",
       "source": "新华网",
+      "title": "中国经济看“新”丨新赛道催生新岗位，就业潜力加快释放 - 新华网",
+      "summary": "中国经济看“新”丨新赛道催生新岗位，就业潜力加快释放&nbsp;&nbsp;新华网",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZmNBNjd3QWJZQWp5RUdaYXZ6cUxONlI2b1liSUdhN19IU0RzdlVKVlNZMEw2eXRYZ2ZxT2NNSkoyQXpNTEdkRTVqVUhTUjlZR1QyTlJDVjJRbmctNnptVlZPX3c3Y2xlTXJsZUZRR2plb2l1YXRkRkhGRm1JRGdEWWt3dVNsVno3?oc=5",
+      "access": "mainland",
+      "timestamp": 1794576660.0,
+      "time": "11-13"
+    },
+    {
+      "category": "中国",
+      "source": "新华网",
       "title": "市场最前沿·工厂探“新”丨老牌机床制造企业的“黑灯”实践 - 新华网",
       "summary": "市场最前沿·工厂探“新”丨老牌机床制造企业的“黑灯”实践&nbsp;&nbsp;新华网",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mREJOQU9xa2lLUFZHYWg3M3o1VkxaN0ZCUTIzdUZDSjY2MHppMXhzTEpuRjZWV1Y5UXZfdnI2WXZrLXFzcDhQVk0zTEU2MjlZcFhsM253d2VWU21HemVTMUxoa19Ocl9xaFJsbi0tejhXVC1WMUhvcFhzQmFacUE?oc=5",
       "access": "mainland",
       "timestamp": 1794572525.0,
-      "time": "11-13"
-    },
-    {
-      "category": "美国",
-      "source": "The New York Times",
-      "title": "Despite Nvidia’s Drop, Stocks Push Ahead - The New York Times",
-      "summary": "Despite Nvidia’s Drop, Stocks Push Ahead&nbsp;&nbsp;The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSlBrdjRTd1hzdUVoVk5qRGEwY0hjenIxSGFLUnRCdUhrdkZJNlVJUkpFanRQR3R0ajJXeGFFWE5UcWtEYkpkRHQxTXhCY3BZMDZUbnF3OUd6WDdtN015NHV6NWpJZExzZnZsV0F0ZTRGSDJOYU12d2RuZWtDWG13dHN3?oc=5",
-      "access": "proxy",
-      "timestamp": 1794568337.0,
       "time": "11-13"
     },
     {
@@ -373,16 +373,6 @@
     },
     {
       "category": "全球",
-      "source": "Stimson Center",
-      "title": "Global Markets and the Strait of Hormuz: The Economic Shockwaves of the Iran War - Stimson Center",
-      "summary": "Global Markets and the Strait of Hormuz: The Economic Shockwaves of the Iran War&nbsp;&nbsp;Stimson Center",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdDEwNXJXa1FMcTYwUjRndkQ5M05XN2lsM2oxU01hYkdKSjhoc2NpMXl2X1ZuUHY4VURtSkdGUXZFNEFsT3hGNU1oRWlieXJZWHdEd0ZpRTJ2ZWpLNGx3eWMzcEZKYmgxNzctMGZnZC1iWVVVZkZMbUxBdThiaE5WZ3ppYjFmN29CMm9NYzFXQ25SRFhiZmR0NWIxeDdQN3dFVWt6dGNpSkxFeTNzV2c?oc=5",
-      "access": "proxy",
-      "timestamp": 1772524800.0,
-      "time": "03-03"
-    },
-    {
-      "category": "全球",
       "source": "PwC",
       "title": "PwC’s 29th Global CEO Survey: Leading through uncertainty in the age of AI - PwC",
       "summary": "PwC’s 29th Global CEO Survey: Leading through uncertainty in the age of AI&nbsp;&nbsp;PwC",
@@ -400,6 +390,16 @@
       "access": "proxy",
       "timestamp": 1768809600.0,
       "time": "01-19"
+    },
+    {
+      "category": "全球",
+      "source": "World Economic Forum",
+      "title": "How the power of AI can revolutionize the financial markets - World Economic Forum",
+      "summary": "How the power of AI can revolutionize the financial markets&nbsp;&nbsp;World Economic Forum",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbWQtNWZoSnlMM3dGUzIyMFpuR3ZxaFFsdG90RlZubS1NOW1YcmN1NnRmRzc2cW4tQy0tWGQyRExEd0NZanVRaWRQcm12b2lyTkdfbkFFYy02aDlKRTMyTWpjN01ndU96LUNzdHRfOHdTM0JCUFNNOEM4ckNnQUlncjFOMWJLYWxmVWdSaUxQaDBDbHVaSldKTVEya0JjaENYdGNqSmJRU2dzRUVMVWFaMGZmaXRkUQ?oc=5",
+      "access": "proxy",
+      "timestamp": 1768204800.0,
+      "time": "01-12"
     }
   ]
 }
