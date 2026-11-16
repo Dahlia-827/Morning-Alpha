@@ -46,13 +46,13 @@ def stamp(value: str | None) -> float:
         except (TypeError, ValueError, OverflowError):
             return 0
 
-# 重点事件种子：只保留少量高关注事件，避免某个免费源暂时不可用时首页变空。
-# 日常更新仍以 SOURCES 抓取结果为主；这些条目会在后续版本中逐步替换。
+"""旧版固定示例，仅作历史记录，不参与抓取和展示。
 FOCUS_ITEMS = [
     {"category": "AI", "source": "DeepSeek 官方", "title": "DeepSeek 发布 V4.1 Flash，多模态模型上线并继续支持开源生态", "summary": "DeepSeek 官方介绍新模型已上线 API，并表示将继续支持开源社区进行模型适配。", "link": "https://deepseek.com/news/deepseek-v4-1-flash/", "access": "mainland", "timestamp": stamp("2026-09-14T04:00:00+00:00"), "official": True},
     {"category": "美国", "source": "Anthropic 招股书", "title": "Anthropic 公开提交上市招股书，AI 公司进入资本市场关键阶段", "summary": "Anthropic 已公开提交美国上市相关文件，后续可关注发行规模、估值与算力投入。", "link": "https://ipo.anthropic.com/documents/us/prospectus.pdf", "access": "proxy", "timestamp": stamp("2026-11-10T12:00:00+00:00"), "official": True},
     {"category": "美国", "source": "德国之声中文网", "title": "英伟达宣布黄仁勋辞任 CEO，AI 芯片产业链关注接班与战略延续", "summary": "黄仁勋离任后由 CFO 暂代，市场将继续观察英伟达的产品路线、客户关系与资本市场反应。", "link": "https://amp.dw.com/zh/%E9%BB%84%E4%BB%81%E5%8B%8B%E8%BE%9E%E8%81%8C-%E4%B8%AD%E4%BC%81%E5%BF%A7%E7%BE%8E%E6%94%B6%E7%B4%A7%E7%9B%91%E7%AE%A1-%E5%BF%99%E6%8A%A2%E7%A7%9F%E6%B5%B7%E5%A4%96%E8%8B%B1%E4%BC%9F%E8%BE%BE%E7%AE%97%E5%8A%9B/a-79929183", "access": "proxy", "timestamp": stamp("2026-11-12T12:00:00+00:00"), "official": False},
 ]
+"""
 
 
 def clean(value: str | None) -> str:
