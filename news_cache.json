@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 21:37",
+  "updated_at": "2026-11-17 06:25",
   "items": [
     {
       "category": "AI",
@@ -58,17 +58,6 @@
     },
     {
       "category": "中国",
-      "source": "新华网",
-      "title": "为中小企业“搭梯” 为多元融资“拓路” 北交所筑牢服务中小企业创新发展主阵地 - 新华网",
-      "summary": "为中小企业“搭梯” 为多元融资“拓路” 北交所筑牢服务中小企业创新发展主阵地 新华网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wSFkwT0pvbnlXX1ZlMjM1TlpPa2lvdUMwRUtaUE80ZTJ3Q0RkLWFWYUM3dGJmV0w0LUl5U2pIMmhQR0l6UXJhdVlXYXJpcXNidWZfd09wQmlleDhSSThqS2hRS3Baek9JZkJSRERtQTVCZTRUbDE1bko3MHJTZw?oc=5",
-      "access": "mainland",
-      "timestamp": 1794795756.0,
-      "official": false,
-      "time": "11-16"
-    },
-    {
-      "category": "中国",
       "source": "北京市人民政府门户网站",
       "title": "开市五年 北交所首批上市公司——从“小而美”升级到“精而强” - 北京市人民政府门户网站",
       "summary": "开市五年 北交所首批上市公司——从“小而美”升级到“精而强” 北京市人民政府门户网站",
@@ -99,6 +88,17 @@
       "timestamp": 1794484800.0,
       "official": false,
       "time": "11-12"
+    },
+    {
+      "category": "中国",
+      "source": "中国证券监督管理委员会",
+      "title": "价值里的底气：A股科技资产成全球资本“新锚点”_山西监管局 - 中国证券监督管理委员会",
+      "summary": "价值里的底气：A股科技资产成全球资本“新锚点”_山西监管局 中国证券监督管理委员会",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04SnBnSEJJdUJrSENfQi1EdDhYUGpXR1NJQ1hNWTVWRmwzemRWencyMXRFdzBnd3k3eWM5YnFXdUNsR1FLMkxLbS1ONC11VXNWbkxiaUctR0J4ekJ2ajFENWxISzlsZWVfYjliUDVn?oc=5",
+      "access": "mainland",
+      "timestamp": 1778742000.0,
+      "official": false,
+      "time": "05-14"
     },
     {
       "category": "中国",
@@ -202,28 +202,6 @@
     {
       "category": "中国",
       "source": "北京市人民政府门户网站",
-      "title": "充电6分钟续航100公里 实现京津冀绿色低碳示范运营 京产新能源重卡驶上跨省运输干线 - 北京市人民政府门户网站",
-      "summary": "充电6分钟续航100公里 实现京津冀绿色低碳示范运营 京产新能源重卡驶上跨省运输干线 北京市人民政府门户网站",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5CcEhXNk9YaDZzLUc5REd3WDA4YVg1c1RVWmMycUdiLW9uMkZpanlzZnJERXFqSnNOZmd4aks2NDUxaTU1TFVjeVFOSHpGRUg5ei0wQm4xWHVNLWYtd2Q5U18zcDRxa1FZTUozWU91TWVCYUJuaDJ1eEh6QQ?oc=5",
-      "access": "mainland",
-      "timestamp": 1794529200.0,
-      "official": false,
-      "time": "11-13"
-    },
-    {
-      "category": "中国",
-      "source": "新华网",
-      "title": "广东农产品品牌建设亮出五年路线图：构建具有国际竞争力的“粤字号”农产品品牌体系 - 新华网",
-      "summary": "广东农产品品牌建设亮出五年路线图：构建具有国际竞争力的“粤字号”农产品品牌体系 新华网",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOelc1RHpXZE9hZEQ4U0xRVVZONFlVMWVWZ1JEQURhOUhPMnc5b056bXlObTZoNkVrYWdSNUFCSnB6ZjVFaWFfMUc4YU5oQmozcTNwZGtsdlZnTk9BT3hlUWVENm9DbllUOENOZDB5UnpaNnBLX3hKYUwxbEhHczZWZzlTSFA?oc=5",
-      "access": "mainland",
-      "timestamp": 1794483961.0,
-      "official": false,
-      "time": "11-12"
-    },
-    {
-      "category": "中国",
-      "source": "北京市人民政府门户网站",
       "title": "一通“卫星视频电话”跨山越海 北京打造商业航天出海实践范本 - 北京市人民政府门户网站",
       "summary": "一通“卫星视频电话”跨山越海 北京打造商业航天出海实践范本 北京市人民政府门户网站",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sa3cta1JYTkRwVC1sb09uZ3IxRWJNNUhkZk9ObzhOLUpGRmlhcWlzb3lUNGRkdUlyaTA5QW9HM0E4TXB5dHY2QjBkWUZ2RmgyMUcwY1B3Y05jdWxxR0dsVEVBTEQ2Q3h6cTBMNHJQVnhqeU40TGFxcEF2aw?oc=5",
@@ -246,17 +224,6 @@
     {
       "category": "中国",
       "source": "北京市人民政府门户网站",
-      "title": "顺义区“十五五”时期高水平开放型经济发展规划 - 北京市人民政府门户网站",
-      "summary": "顺义区“十五五”时期高水平开放型经济发展规划 北京市人民政府门户网站",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYzVQd25kTE4yaVVOeTRjTno1VmNKUW0yNWowNGQwZ19GdHFvQjlmTTA5YlZibGZjeXV5Nm9TUHQzWHJ5MXJqY0h2RWxQOUZnMllJZlc5dHBtaHRtSnE1NDZQNUltd0pmOFMxN2NHZDVLdXpkbnN3T3RrVDVxa1N3Uk1UYw?oc=5",
-      "access": "mainland",
-      "timestamp": 1794425048.0,
-      "official": false,
-      "time": "11-11"
-    },
-    {
-      "category": "中国",
-      "source": "北京市人民政府门户网站",
       "title": "过去五六个人忙活半年 如今两三个人两三周搞定 传统行业来了创新“轻骑兵” - 北京市人民政府门户网站",
       "summary": "过去五六个人忙活半年 如今两三个人两三周搞定 传统行业来了创新“轻骑兵” 北京市人民政府门户网站",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE0xLUdYaXNEVTYxQXVQVEk3OEUyaUdESTFRSi1mMG4zMnc5bVp3RUhKOGl4NFZQS0RsR3lNc0RRRXRzSThxSUt5MnZOWnl6Z2ZUNWsxZ29xak02R2hjWXpfaDcyemNhSUNaRjg5QlpUaHFFUllWYU0yZGF2SQ?oc=5",
@@ -264,6 +231,39 @@
       "timestamp": 1794362460.0,
       "official": false,
       "time": "11-11"
+    },
+    {
+      "category": "中国",
+      "source": "中华人民共和国国务院新闻办公室",
+      "title": "锚定科技强国与金融强国目标发展科技金融 - 中华人民共和国国务院新闻办公室",
+      "summary": "锚定科技强国与金融强国目标发展科技金融 中华人民共和国国务院新闻办公室",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4wUHRlNmhCci15alFKcnNyejdjY25tU1FoWlVTNXhRcUV2WmFpQU12cnBVUFkyNXAtMkRjdklQbUR6QlNOYnJLTGNJSTlrY3dLaWpQMGdJT3J6NXphUkZMdmZmbVl4Tk5zVjlYY2RaSVNSeHFoTTRQcE1YanZkaGc?oc=5",
+      "access": "mainland",
+      "timestamp": 1770105600.0,
+      "official": false,
+      "time": "02-03"
+    },
+    {
+      "category": "中国",
+      "source": "中国证券监督管理委员会",
+      "title": "吴清：充分发挥资本市场功能 更好服务新型工业化 - 中国证券监督管理委员会",
+      "summary": "吴清：充分发挥资本市场功能 更好服务新型工业化 中国证券监督管理委员会",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE83Wk8tdXlfdmZ0TlQyQk9scFFPNzNWWmZ6bjF6cWZDalh0aUtOTWFoTllIdHh0OFNLN2I3bnNmRUx1ejI4aURrcEZBaWw2TlVyZmM3cHk1Y2diMDZwRVBZVkhsRWozSjdMNDI4?oc=5",
+      "access": "mainland",
+      "timestamp": 1740384000.0,
+      "official": false,
+      "time": "02-24"
+    },
+    {
+      "category": "中国",
+      "source": "深圳市地方金融管理局",
+      "title": "《深圳市关于金融支持科技创新的实施意见》政策解读- 中共深圳市委金融委员会办公室 - 深圳市地方金融管理局",
+      "summary": "《深圳市关于金融支持科技创新的实施意见》政策解读- 中共深圳市委金融委员会办公室 深圳市地方金融管理局",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SLW16ZUMwdkhYVVlVbmlWQnNlem5uc280Mm5odXFvanFKSHBEbGhoOVp3bVBFbkwzRF9NWkZocjBBMFBmOGIzU0hGbjhSNGs?oc=5",
+      "access": "mainland",
+      "timestamp": 1716829707.0,
+      "official": false,
+      "time": "05-27"
     }
   ],
   "source_count": 11
