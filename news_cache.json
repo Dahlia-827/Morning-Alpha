@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27 13:28",
+  "updated_at": "2026-11-27 23:53",
   "items": [
     {
       "category": "商业",
@@ -38,7 +38,7 @@
       "category": "AI",
       "source": "36氪·科技文章",
       "title": "湖南70后中专生：卖芯片，半年赚了40亿",
-      "summary": "AI掀起的存储芯片涨价潮，又造就了一个IPO。 11月25日，深圳晶存科技通过港交所上市聆讯。招股书显示，2026年上半年，公司营收120.18亿元，同比增长483.2%；净利���40.32亿元，同比增长超34倍。 要知道，两年前，这家公司一年的净利润还不到9000万元。而在2024年末的最后一轮融资中，晶存科技的估值也不过38.83亿元。 如今，它半年的净利润，已经超过了当时整家公司的估值。 晶存科技的创始人文建伟，是一位湖南中专毕业生。早年，他在深圳做电子元器件生意，后来转向存储芯片领域。创业十年，他做出了全球嵌入式存储市场出货量最大的独立厂商。 有意思的是，这家半年赚了40亿元的公司，",
+      "summary": "AI掀起的存储芯片涨价潮，又造就了一个IPO。 11月25日，深圳晶存科技通过港交所上市聆讯。招股书显示，2026年上半年，公司营收120.18亿元，同比增长483.2%；净利润40.32亿元，同比增长超34倍。 要知道，两年前，这家公司一年的净利润还不到9000万元。而在2024年末的最后一轮融资中，晶存科技的估值也不过38.83亿元。 如今，它半年的净利润，已经超过了当时整家公司的估值。 晶存科技的创始人文建伟，是一位湖南中专毕业生。早年，他在深圳做电子元器件生意，后来转向存储芯片领域。创业十年，他做出了全球嵌入式存储市场出货量最大的独立厂商。 有意思的是，这家半年赚了40亿元的公司，连一",
       "link": "https://36kr.com/p/4087919602563716?f=rss",
       "access": "mainland",
       "timestamp": 1795782811.0,
@@ -253,17 +253,6 @@
       "timestamp": 1795744075.0,
       "official": false,
       "time": "11-27"
-    },
-    {
-      "category": "中国",
-      "source": "新华网",
-      "title": "浙江最小县级行政区培育出78家上市企业——创新滨江：智创“产业雨林”成长记 - 新华网",
-      "summary": "浙江最小县级行政区培育出78家上市企业——创新滨江：智创“产业雨林”成长记 新华网",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUWVDRzRfRGxNRmlNXzRkaklvYk1jSDJGQlBqaDhNc2hFSTNpT3paYkpuVkM5QmRoRy0zODctUk5nalNUVnNUODJuRTdHeDZ5VjVRNVkxTUFVRjlyVUd1SFNEc0hGM1Z3LU9wOGVxT2h0S3VnYVhyOWJzVGJUUQ?oc=5",
-      "access": "mainland",
-      "timestamp": 1795338355.0,
-      "official": false,
-      "time": "11-22"
     },
     {
       "category": "商业",
@@ -531,17 +520,6 @@
     },
     {
       "category": "中国",
-      "source": "北京经济技术开发区",
-      "title": "“核药第一股”先通医药成功登陆港交所经开区为企业对接资本市场铺就快车道_产业出海 - 北京经济技术开发区",
-      "summary": "“核药第一股”先通医药成功登陆港交所经开区为企业对接资本市场铺就快车道_产业出海 北京经济技术开发区",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZUVrWThDMGRPWXBhLXRQc216a1E5cm0teGdKU3liV1h5ZkxUZUZ5aXdzbnc0UWpwRHJEcHp2WjF0bHVOZ0h2OFVSRk5qZC1IQnhIUERuOEw2dlc3Wk9faFZmLVF1UkhmVmlzUkFheExsMzdNYXZCNXRvQW4tTkFXcg?oc=5",
-      "access": "mainland",
-      "timestamp": 1795587360.0,
-      "official": false,
-      "time": "11-25"
-    },
-    {
-      "category": "中国",
       "source": "新华网",
       "title": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 - 新华网",
       "summary": "新闻分析丨美国AI巨头债务激增背后的经济隐忧 新华网",
@@ -572,6 +550,28 @@
       "timestamp": 1795521709.0,
       "official": false,
       "time": "11-24"
+    },
+    {
+      "category": "中国",
+      "source": "北京市人民政府门户网站",
+      "title": "“周五潮东看”第五期！北京东城AI医药国际产业园锚定打造世界医药东方之窗 - 北京市人民政府门户网站",
+      "summary": "“周五潮东看”第五期！北京东城AI医药国际产业园锚定打造世界医药东方之窗 北京市人民政府门户网站",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lRUwzU0R2TkJ5djkta2ZPem0tVi1UdHE2YkplUDZBUmkybHFoR2FsQzlkWFh3cEo1YzFXaDVDM2gyT2ZocnJaU0lINWpnT1RRei03eFVfNl9DU1NGR2F3VzVyamJwS05abHJ2c0VrVFJfSURS?oc=5",
+      "access": "mainland",
+      "timestamp": 1795491120.0,
+      "official": false,
+      "time": "11-24"
+    },
+    {
+      "category": "中国",
+      "source": "中国证券监督管理委员会",
+      "title": "中国证券监督管理委员会 - 中国证券监督管理委员会",
+      "summary": "中国证券监督管理委员会 中国证券监督管理委员会",
+      "link": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE52NFBpRGhuc2hrZkNIX2tiekNWNHVJNmZlbk9taU56Z0hidFpuSmo5WXdMT0ZBS2xDaXY4bw?oc=5",
+      "access": "mainland",
+      "timestamp": 1468697331.0,
+      "official": false,
+      "time": "07-16"
     }
   ],
   "source_count": 14
